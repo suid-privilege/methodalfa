@@ -1,6 +1,6 @@
 <?php
 /*
-		The Given Code Was Successfully Obfuscated By B0RU70's Obfuscator :-)
+		The Given Code Was Successfully Obfuscated By Edit70 obfuscator
 						From : ebeniki
 									Thanks For Using :D
 */
