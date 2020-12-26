@@ -1,7 +1,6 @@
 <?php
 /*
-		The Given Code Was Successfully Obfuscated By Edit70 obfuscator
-						From : ebeniki
+
 									Thanks For Using :D
 */
 $UeXploiT = "ZXZhbCUyOCUyNnF1b3QlM0IlM0YlMjZndCUzQiUyNnF1b3QlM0IuZ3p1bmNvbXByZXNzJTI4Z3p1bmNvbXByZXNzJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4YmFzZTY0X2RlY29kZSUyOHN0cnJldiUyOCUyNEFuMG5fM3hQbG9pVGVSJTI5JTI5JTI5JTI5JTI5JTI5JTI5JTI5JTNC";
